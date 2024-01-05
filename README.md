@@ -1,1 +1,1 @@
-![medussion's solved.ac profile](https://github-readme-solvedac.medussion.vercel.app/api/?handle=junylove)
+![medussion's solved.ac profile](https://github-readme-solvedac.junylove.vercel.app/api/?handle=junylove)
